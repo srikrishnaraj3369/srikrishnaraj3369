@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JS, React, Python**
 
-- ⚡ Fun fact **Numbers starts from**
+- ⚡ Fun fact **Numbers starts from 0**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
